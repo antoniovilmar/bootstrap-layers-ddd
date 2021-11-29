@@ -15,7 +15,7 @@ As layers estão baseadas em uma estrutura utilizando DDD, durante o desafio 1, 
 
 ## Desafio 1
 
-Implementar uma solução que simula um carrinho de compras (Possível adicionar e remover), quando faz uma chamada solicitando o fechamento do pedido de compra (Desejo comprar oq consta no carrinho), no fechamento do pedido é possível:
+Implementar uma solução que simula um carrinho de compras (Possível adicionar e remover itens), quando faz uma chamada solicitando o fechamento do pedido de compra (Desejo comprar oq consta no carrinho), no fechamento do pedido é possível:
 
 - deve ser possível incluir um cupom de desconto
 - após aplicar o desconto, deve atualizar o valor total do pedido
