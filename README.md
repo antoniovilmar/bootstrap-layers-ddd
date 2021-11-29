@@ -8,7 +8,7 @@ O projeto contém um bootstrap para layers do DDD (Infrastructure, Application e
 - Spring boot
 - Kotlin com JDK 11
 
-# Desafio
+# Desafios
 
 A temática do projeto é sobre ecommerce, os desafios devem ser implementados utilizando o padrão Rest.
 As layers estão baseadas em uma estrutura utilizando DDD, durante o desafio 1, deve trazer o conceito das camadas do Clean Architecture, encaixando cada "camada" do  Clean Architecture dentro das layers do DDD.
