@@ -15,16 +15,17 @@ As layers estão baseadas em uma estrutura utilizando DDD, durante o desafio 1, 
 
 ## Desafio 1
 
-Implementar uma solução que simula um carrinho de compras (Possível adicionar e remover itens), quando faz uma chamada solicitando o fechamento do pedido de compra (Desejo comprar oq consta no carrinho), no fechamento do pedido é possível:
+Implementar uma solução que simula um carrinho de compras (Possível adicionar e remover itens), quando efetuar a compra dos itens do carrinho, deve processar a venda da seguinte maneira:
 
-- deve ser possível incluir um cupom de desconto
+- considerar valor de frete
+- considerar cupom de desconto
 - após aplicar o desconto, deve atualizar o valor total do pedido
 - validar o cartão de cŕédito do cliente
-- deve considerar que status do pedido consta "APROVADO".
+- após, deve concretizar a venda. 
 
 ## Desafio 2
 
-Implementar uma rota que lista todos os pedidos de compra com status "APROVADO"
+Implementar uma rota que lista todas vendas.
 
 #Referências
 
