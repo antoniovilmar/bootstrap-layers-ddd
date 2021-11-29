@@ -19,7 +19,6 @@ Implementar uma solução que simula um carrinho de compras (Possível adicionar
 
 - considerar valor de frete
 - considerar cupom de desconto
-- após aplicar o desconto, deve atualizar o valor total do pedido
 - validar o cartão de cŕédito do cliente
 - após, deve concretizar a venda. 
 
