@@ -27,7 +27,7 @@ Implementar uma solução que simula um carrinho de compras (Possível adicionar
 
 Implementar uma rota que lista todas vendas.
 
-#Referências
+# Referências
 
 - https://archfirst.org/domain-driven-design-6-layered-architecture/
 - https://www.baeldung.com/spring-boot-clean-architecture
