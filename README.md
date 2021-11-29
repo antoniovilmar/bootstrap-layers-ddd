@@ -29,7 +29,7 @@ Implementar uma rota que lista todas vendas.
 
 #Referências
 
-https://archfirst.org/domain-driven-design-6-layered-architecture/
-https://www.baeldung.com/spring-boot-clean-architecture
+- https://archfirst.org/domain-driven-design-6-layered-architecture/
+- https://www.baeldung.com/spring-boot-clean-architecture
 
 
