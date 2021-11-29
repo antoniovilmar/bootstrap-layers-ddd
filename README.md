@@ -15,7 +15,7 @@ As layers estão baseadas em uma estrutura utilizando DDD, durante o desafio 1, 
 
 ## Desafio 1
 
-Implementar uma solução que simula um carrinho de compras (Possível adicionar e remover itens), quando efetuar a compra dos itens do carrinho, deve processar a venda da seguinte maneira:
+Implementar uma solução que simula um carrinho de compras (deve ser possível adicionar e remover itens), quando efetuar a compra dos itens do carrinho, deve processar a venda da seguinte maneira:
 
 - considerar valor de frete
 - considerar cupom de desconto
